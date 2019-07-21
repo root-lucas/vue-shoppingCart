@@ -1,6 +1,16 @@
 # Vue-2.0-shoppingCart
 将vue2.0购物车demo放入github page上
 
+__mobile demo:__
+
+<p>扫描二维码预览	Scan QR code</p>
+
+![san](https://raw.githubusercontent.com/root-lucas/vue-shoppingCart/master/img/QR-Code.png)
+
+__PC demo:__
+
+https://root-lucas.github.io/vue-shoppingCart/cart.html
+
 ## 项目组成部分
 - 创建Vue实例
 - 通过v-for指令渲染产品数据
