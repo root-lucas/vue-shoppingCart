@@ -1,1 +1,0 @@
-# this is Vue 2.0 project
